@@ -1,2 +1,3 @@
 new file created
 line1
+line2
