@@ -1,0 +1,3 @@
+[submodule "sepm"]
+	path = sepm
+	url = https://github.com/vanarp99/sepm
