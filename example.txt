@@ -1,1 +1,3 @@
 example file created
+example file 1
+Feature line 2
